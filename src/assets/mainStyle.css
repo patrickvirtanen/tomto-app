@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.text_green {
+    color: green;
+}
+
+.container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.nav {
+    height: 8vh;
+    width: 100%;
+    background: rgb(200, 81, 57);
+}
+
+.nav_img {
+    margin-left: 2%;
+    margin-top: 1%;
+    
+}
+
+.tomato_container {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 50%;
+    
+}
+
+.tomato_game {
+    background: navy;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 50%;
+    height: 50%;
+}
+
+.tomato_btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.tomato_img_result {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6%;
+    float: left;
+}
+
+.each_tomato {
+    background: pink;
+}
+
+.count {
+    background: paleturquoise;
+}
+
+.warning {
+    color: rgb(134, 28, 28);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
